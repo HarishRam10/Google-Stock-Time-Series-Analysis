@@ -1,1 +1,6 @@
-# Google-Stock-Time-Series-Analysis-
+Using time series modeling concepts and techniques, this project will focus on analyzing a multivariate time-dependent dataset in an attempt to create a predictive model that can forecast future values. The modeling techniques that will be used in this project will compare the accuracy, error and performance of several models. Each model will be assessed by looking at important statistical measures and tests of significance to evaluate the reliability and accuracy. After, the best model will be chosen and its predictive accuracy will be tested.
+
+Stock data has always been near impossible to predict with great accuracy because human error and decision making is a significant part of its fluctuation. However, by analyzing historical data, a model can be created that uses the behavior of that data to make future predictions. The data that is going to be used in this project is Google stock prices from 2006 to 2018 that was web-scrapped from Google finance. In order to create the best predictive model, pre-processing and cleaning the data is necessary to perform meaningful exploratory data analysis. Observing the trend of the data over a 12-year period is important when studying the trend and behavior of the data. Only after completely understanding the data can the models be created and evaluated. The statistical measures of the error of each model will help determine its precision. Using those measures will allow for proper model comparison and successful model selection.
+
+
+
